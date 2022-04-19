@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css" />
+    <title>FrontEnd</title>
+  </head>
+  <body>
+    <div class="body">
+      <div class="section-one">
+        <nav>
+          <img src="./images/Indexed Logo.png" alt="logo" class="logo" />
+          <div class="burger">
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+          </div>
+
+          <div class="links">
+            <a href=""><li></li></a>
+            <a href=""><li></li></a>
+            <a href=""><li></li></a>
+            
+          </div>
+        </nav>
+        <div class="main-text">
+          <h1>Clone services are here for you !.</h1>
+          <p>
+            Transparent pricing to help you to make the right choice. With
+            <span>30-day money back guarantee</span>.
+          </p>
+        </div>
+      </div>
+      <div class="section-two">
+        <div class="card1 card" id="card">
+          <h4>World of Warcraft Scripts 🧒</h4>
+          <div class="price">
+            <h1>$40.00</h1>
+            <span>$80.00 for Custom Scripts</span>
+          </div>
+          <button>Contact Clone#8928 on Discord →</button>
+          <div class="features">
+            <li>
+              <div class="bullet">
+                <img src="./images/checkmark-onpurple.png" alt="" />
+              </div>
+              <h5>C++ Scripts</h5>
+            </li>
+            <li>
+              <div class="bullet">
+                <img src="./images/checkmark-onpurple.png" alt="" />
+              </div>
+              <h5>LUA Scripts</h5>
+            </li>
+            <li>
+              <div class="bullet">
+                <img src="./images/checkmark-onpurple.png" alt="" />
+              </div>
+              <h5>Working on TrinityCore</h5>
+            </li>
+            <li>
+              <div class="bullet">
+                <img src="./images/checkmark-onpurple.png" alt="" />
+              </div>
+              <h5>Working on AzerothCore</h5>
+            </li>
+            <li>
+          </div>
+        </div>
+
+        <div class="card1 card" id="card">
+          <h4>World of Warcraft DEV 🧑</h4>
+          <div class="price">
+            <h1>$70 weekly</h1>
+            <span>$250.00 billed monthly</span>
+          </div>
+          <button>Contact Clone#8928 on Discord →</button>
+          <div class="features">
+            <li>
+              <div class="bullet">
+                <img src="./images/checkmark-onpurple.png" alt="" />
+              </div>
+              <h5>Maintenance</h5>
+            </li>
+            <li>
+              <div class="bullet">
+                <img src="./images/checkmark-onpurple.png" alt="" />
+              </div>
+              <h5>2 checks per week ( Database & Server )</h5>
+            </li>
+            <li>
+              <div class="bullet">
+                <img src="./images/checkmark-onpurple.png" alt="" />
+              </div>
+              <h5>Resolve Bugs</h5>
+            </li>
+            <li>
+              <div class="bullet">
+                <img src="./images/checkmark-onpurple.png" alt="" />
+              </div>
+              <h5>Adding things ingame</h5>
+            </li>
+            <li>
+              <div class="bullet">
+                <img src="./images/checkmark-onpurple.png" alt="" />
+              </div>
+              <h5>Support 24/7</h5>
+            </li>
+            <li>
+              <div class="bullet">
+                <img src="./images/checkmark-onpurple.png" alt="" />
+              </div>
+              <h5>Any other Dev related things</h5>
+            </li>
+          </div>
+        </div>
+
+        <div class="card1 card" id="card">
+          <h4>World of Warcraft Server 😎</h4>
+          <div class="price">
+            <h1>$350</h1>
+            <span>Get your own server now!</span>
+          </div>
+          <button>Contact Clone#8928 on Discord →</button>
+          <div class="features">
+            <li>
+              <div class="bullet">
+                <img src="./images/checkmark-onpurple.png" alt="" />
+              </div>
+              <h5>Installing a server from scratch</h5>
+            </li>
+            <li>
+              <div class="bullet">
+                <img src="./images/checkmark-onpurple.png" alt="" />
+              </div>
+              <h5>Blizzlike Server</h5>
+            </li>
+            <li>
+              <div class="bullet">
+                <img src="./images/checkmark-onpurple.png" alt="" />
+              </div>
+              <h5>Every Expansion</h5>
+            </li>
+            <li>
+              <div class="bullet">
+                <img src="./images/checkmark-onpurple.png" alt="" />
+              </div>
+              <h5>Website installing FREE</h5>
+            </li>
+            <li>
+              <div class="bullet">
+                <img src="./images/checkmark-onpurple.png" alt="" />
+              </div>
+              <h5>All done in 1 day</h5>
+            </li>
+            <li>
+              <div class="bullet">
+                <img src="./images/checkmark-onpurple.png" alt="" />
+              </div>
+              <h5>Support for 30 days</h5>
+            </li>
+          </div>
+      </div>
+    </div>
+    <script src="./app.js"></script>
+  </body>
+  <footer>
+    <div>
+      ✍🏽 For any other Services , join us on Discord Channel
+      <a
+        href="https://discord.gg/ZVkBnBV7xU"
+        target="_blank"
+        > Click Here
+      </a>
+    </div>
+    <div>
+      💻 Developed by
+      <a href="https://www.linkedin.com/in/shahzaib-fardeen/" target="_blank">
+        Shahzaib Fardeen 
+      </a>
+    </div>
+    <h4> &#169; All Rights Reserved 2021.</h4>
+  </footer>
+</html>
